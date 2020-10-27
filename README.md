@@ -1,5 +1,5 @@
 ## Сайт выполнен исключительно в образовательных целях.
-### При реализации использовались React и localStorage.
+При реализации использовались React и localStorage.
 ### [Посмотреть результат можно тут.](https://antondanko.github.io/MoneyCalc/)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
