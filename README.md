@@ -1,7 +1,8 @@
 # Калькулятор доходов/расходов 
 При реализации использовались React и localStorage.
-## Сайт выполнен исключительно в образовательных целях.
 ### [Посмотреть результат можно тут.](https://antondanko.github.io/MoneyCalc/)
+
+Сайт выполнен исключительно в образовательных целях.
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
